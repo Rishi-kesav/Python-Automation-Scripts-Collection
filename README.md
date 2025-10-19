@@ -5,8 +5,11 @@ A comprehensive collection of Python automation scripts to simplify everyday tas
 ## 🚀 Scripts Available
 
 ### 📁 File Management
-- **[Bulk File Renamer](./bulk-file-renamer/)** - Rename multiple files based on patterns, add prefixes/suffixes, or sequential numbering
+
 - **[Folder Organizer](./folder-organizer/)** - Automatically organize files into folders based on file types, dates, or custom rules
+## 🚀 Scripts Upcoming
+
+- **[Bulk File Renamer](./bulk-file-renamer/)** - Rename multiple files based on patterns, add prefixes/suffixes, or sequential numbering
 
 ### 🖼️ Image Processing
 - **[Image Format Converter](./image-converter/)** - Convert images between different formats (PNG, JPG, WEBP, etc.) with batch processing
